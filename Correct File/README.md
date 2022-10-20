@@ -1,4 +1,4 @@
-# Forensics: Correc File?
+# Forensics: Correct File?
 #### Challegen
 Có tiếng nhạc văng vẳng đâu đây, liệu có phải là tín hiệu?
 
