@@ -24,6 +24,6 @@ Mở thử lên, ở đoạn đầu thấy được dạng đúng của file là
 
 Mở lên và lấy được flag 
 
-<img src= https://raw.githubusercontent.com/Dongkong1908/MiniCTF-2022/main/Where%20is%20Nemo/img/nemo.jpg>
+<img src= https://raw.githubusercontent.com/Dongkong1908/MiniCTF-2022/main/Where%20is%20Nemo/img/nemo.jpg height=600px >
 
 Flag: `ISPCTF{y0u_5ave_Nem0_f15h}`
