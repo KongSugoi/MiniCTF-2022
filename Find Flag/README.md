@@ -8,10 +8,10 @@ Link web: [http://174.138.21.217:8022](http://174.138.21.217:8022)
 
 Mở web lên, thấy 1 trang log in, nhập các thứ không vào được. Thử inspect có flag nhưng lại là flag fake.
 
-<img src=>
+<img src=https://raw.githubusercontent.com/Dongkong1908/MiniCTF-2022/main/Find%20Flag/find_flag_1.png>
 
 Thử nhập /flag.txt thêm vào đường link của web. Thấy được flag 
 
-<img src=>
+<img src=https://raw.githubusercontent.com/Dongkong1908/MiniCTF-2022/main/Find%20Flag/find_flag_2.png>
 
 Flag: `ISPCTF{HAv3_Fnu_Vvlt5_W3b}`
