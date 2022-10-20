@@ -6,7 +6,7 @@ Tập hợp để đi đánh boss thôi nàoo!
 
 #### Solution
 
-Tải file svg về và mở lên, không thấy gì bất thường cả. Ta thử inspect lên thấy các đoạn < tspantspan > có liên kết với nhau. Ghép chúng lại ta ra được flag
+Tải file svg về và mở lên, không thấy gì bất thường cả. Ta thử inspect lên thấy các đoạn < tspan > có liên kết với nhau. Ghép chúng lại ta ra được flag
 
 <img src= https://raw.githubusercontent.com/Dongkong1908/MiniCTF-2022/main/Basic%20Forensic/basic_forensics.png>
 
